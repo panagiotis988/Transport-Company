@@ -57,7 +57,7 @@ class Envelope(Package):
 
 
 class Bulky_Item(Package):
-    # Εδώ συμπληρώνετε τον κώδικά σας
+    # Εδώ συμπληρώνετε τον κώδικa σας
 
     def __init__(self, description, destination, length, width, height):
         Package.__init__(self, description, destination)
